@@ -1,0 +1,16 @@
+﻿Emp_ID,Employee_Name,Age ,Gender,Department,Job_role,Salary,Experience_Years,Education,City,Joining_date,Attrition,Performance_Rating
+101,Amit Sharma,29,Male,Sales,Sales Executive,45000,3,MBA,Delhi,10-02-2021,No,4
+102,Neha Gupta,31,Female,HR,HR Manager,52000,5,MBA,Mumbai,12-05-2019,No,5
+103,Rahul verma ,26,Male,IT,Data Analyst,48000,2,BTECH,Bangalore,15-07-2022,Yes,3
+104,Priya singh,35,Female,Finance,Accountant,55000,7,MCOM,Delhi,20-03-2018,No,4
+105,Arjun Mehta,28,Male,IT,Developer,50000,3,BTECH,Pune,01-11-2021,Yes,3
+106,Anjali Kapoor,30,Female,Sales,Sales Manager,60000,6,MBA,Chennai,18-09-2019,No,5
+107,Karan Patel,27,Male,Marketing,Marketing Executive,42000,2,BBA,Ahemedabad,15-01-2022,Yes,3
+108,Deepak Yadav,33,Male,Finance,Financial Analyst,58000,6,MBA,Delhi,11-06-2019,no,4
+109,Sneha jain,25,Female,HR,Hr Executive,40000,1,BBA,Jaipur,14-02-2023,Yes,3
+110,Rohit Kumar,36,Male,IT,Senior Developer,70000,10,BTECH,Bangalore,12-08-2021,no,5
+111,Pooja sharma,29,Female,Marketing,SEO Specialist,470000,3,MBA,Delhi,09-09-2017,no,4
+112,Vikas Gupta,34,Male,Finance,Finance Manager,65000,8,MBA,Mumbai,01-04-2022,no,5
+113,Riya Kapoor,27,Female,Sales,Sales Executive,43000,2,BBA,Chandigarh,14-10-2019,Yes,3
+114,Manish Singh,32,Male,IT,System Engineer,52000,6,BTECH,Pune,14-10-2019,No,4
+115,Kavita Jain,38,Female,HR,HR Director,75000,12,MBA,Delhi,18-06-2015,No,5
